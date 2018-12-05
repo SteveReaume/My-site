@@ -1,1 +1,2 @@
-baseurl: "/My-site"
+# Build settings
+baseurl: "My-site"
